@@ -50,6 +50,10 @@ dt {
 		position: relative;	
 		top:-160px;
 	}
+	.skills{
+		position: relative;	
+		top:-230px;
+	}
 	
 dd {
 	width:550px;
