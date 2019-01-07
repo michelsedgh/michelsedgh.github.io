@@ -28,7 +28,7 @@ h1{
 	width:350px;
 	color:gray;
 	font-style:italic;
-}
+	}
 
 dt {
 	padding-left:50px;
@@ -37,31 +37,31 @@ dt {
 	width:150px;
 	border-right:1px solid black;
 	height:100px;
-	}
+		}
 
-	.skills {
-		position: relative;	
-		top:-140px;
-	}
-.background{
+.skills {
+	position: relative;	
+	top:-140px;
+		}
+.background {
 		position: relative;	
 		bottom:-60px;
-	}	
-	.work{
+		}	
+.work {
 		position: relative;	
 		top:-70;
-	}
-	.interests{
+		}
+.interests {
 		position: relative;	
 		top:-200px;
-	}
+		}
 	
 dd {
 	width:550px;
 	position: relative;
 	left: 250px;
 	bottom: 100px;	
-}
+	}
 .bold{
 	font-weight:bold;
 }
