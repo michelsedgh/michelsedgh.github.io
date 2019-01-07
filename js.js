@@ -4,7 +4,7 @@ $(document).ready(function () {
 			// Animation complete.
 		});
 	});
-	$( "h1" ).click(function() {
+	$( "wrap" ).click(function() {
 		$( "#pic" ).slideDown( "slow", function() {
 			// Animation complete.
 		  });
